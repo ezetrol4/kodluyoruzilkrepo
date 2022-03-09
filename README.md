@@ -5,9 +5,9 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 # 2. Installation
 
-'''bash
-git clone https://github.com/ezetrol4/kodluyoruzilkrepo
-'''
+```bash
+git clone https://github.com/ezetrol4/kodluyoruzilkrepo.git
+```
 
 # 3. Usage 
 
