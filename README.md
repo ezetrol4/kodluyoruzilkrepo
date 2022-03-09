@@ -5,3 +5,6 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 # 2. Installation
 
+git clone https://github.com/ezetrol4/kodluyoruzilkrepo
+
+# 3. Usage 
